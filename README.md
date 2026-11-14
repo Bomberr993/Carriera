@@ -6,7 +6,7 @@ Tutto è in un unico file (`index.html`), senza dipendenze. Il salvataggio usa i
 
 ## Pubblicarlo su GitHub Pages
 1. Crea un repository su GitHub (per esempio `dal-vivaio`).
-2. Carica `index.html`, `.nojekyll` e `README.md` nella radice (Add file › Upload files).
+2. Carica `index.html` e `README.md` nella radice (Add file › Upload files).
 3. Vai in Settings › Pages, scegli Source: Deploy from a branch, branch `main`, cartella `/ (root)`, poi Save.
 4. Dopo circa un minuto il gioco è su `https://TUO-NOME.github.io/dal-vivaio/`.
 
